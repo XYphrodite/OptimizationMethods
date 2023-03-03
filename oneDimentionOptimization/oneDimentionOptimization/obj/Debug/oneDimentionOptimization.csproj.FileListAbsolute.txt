@@ -1,0 +1,11 @@
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\bin\Debug\oneDimentionOptimization.exe.config
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\bin\Debug\oneDimentionOptimization.exe
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\bin\Debug\oneDimentionOptimization.pdb
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.csproj.AssemblyReference.cache
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.csproj.SuggestedBindingRedirects.cache
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.Form1.resources
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.Properties.Resources.resources
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.csproj.GenerateResource.cache
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.csproj.CoreCompileInputs.cache
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.exe
+X:\ТГТУ\5 семестр\Методы отптимизаций проектных решений\ЛР1\oneDimentionOptimization\oneDimentionOptimization\obj\Debug\oneDimentionOptimization.pdb
